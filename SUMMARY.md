@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Ready Stage](book/ready_stage/readystage_md.md)
+* [Ready Stage](ready_stage.md)
    * [Getting Started](book/ready_stage/getting_started.md)
    * [Target Customer Interviews](book/ready_stage/target_customer_interviews.md)
    * [Solution Design/ User Experience](book/ready_stage/user_experience.md)
