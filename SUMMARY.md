@@ -4,7 +4,7 @@
 * [Ready Stage](ready_stage.md)
    * [Getting Started](getting_started.md)
    * [Target Customer Interviews](target_customer_interviews.md)
-   * [Solution Design/ User Experience](book/ready_stage/user_experience.md)
+   * [Solution Design/ User Experience](user_experience.md)
    * [Market Research](book/ready_stage/market_research.md)
    * [Pitching](book/ready_stage/pitching.md)
    * [Additional Resources](book/ready_stage/additional_resources.md)
