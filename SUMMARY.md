@@ -5,7 +5,7 @@
    * [Getting Started](book/getting_started.md)
    * [Target Customer Interviews](book/target_customer_interviews.md)
    * [Solution Design/ User Experience](book/user_experience.md)
-   * [Market Research](market_research.md)
+   * [Market Research](book/market_research.md)
    * [Pitching](pitching.md)
    * [Additional Resources](additional_resources.md)
    * [Target Customer Interview Guide](interview_guide.md)
