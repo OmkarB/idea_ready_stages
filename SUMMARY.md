@@ -9,8 +9,4 @@
    * [Pitching](book/ready_stage/pitching.md)
    * [Additional Resources](book/ready_stage/additional_resources.md)
    * [Target Customer Interview Guide](book/ready_stage/interview_guide.md)
-* [Set Stage](book/set_stage/setstage.md)
-   * [Getting Started](book/set_stage/getting_set.md)
-   * [Resources](book/set_stage/set_resources.md)
-   * [Business Model Pitch](book/set_stage/business_model_pitch.md)
 
