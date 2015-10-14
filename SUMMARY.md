@@ -6,7 +6,7 @@
    * [Target Customer Interviews](target_customer_interviews.md)
    * [Solution Design/ User Experience](user_experience.md)
    * [Market Research](market_research.md)
-   * [Pitching](book/ready_stage/pitching.md)
+   * [Pitching](pitching.md)
    * [Additional Resources](book/ready_stage/additional_resources.md)
    * [Target Customer Interview Guide](book/ready_stage/interview_guide.md)
 
