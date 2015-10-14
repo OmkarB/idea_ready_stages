@@ -8,5 +8,5 @@
    * [Market Research](market_research.md)
    * [Pitching](pitching.md)
    * [Additional Resources](additional_resources.md)
-   * [Target Customer Interview Guide](book/ready_stage/interview_guide.md)
+   * [Target Customer Interview Guide](interview_guide.md)
 
