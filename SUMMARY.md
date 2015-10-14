@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Ready Stage](book/ready_stage.md)
-   * [Getting Started](getting_started.md)
+   * [Getting Started](book/getting_started.md)
    * [Target Customer Interviews](target_customer_interviews.md)
    * [Solution Design/ User Experience](user_experience.md)
    * [Market Research](market_research.md)
