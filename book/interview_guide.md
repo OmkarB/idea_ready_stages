@@ -6,7 +6,7 @@ The target customer interviews should  help you understand how your customer thi
 
 * Define target group: Who is your customer? Determine the criteria that define your expected customer /user (age, location, interests, income, etc.)
 * Find at least 10 people who belong to that target group
-* Conduct interviews and ask two sets of questions. One about the problem you claim to solve. The other about your product/service as a solution to this problem. 
+* Conduct interviews and ask two sets of questions. One about the problem you claim to solve. The other about your product/service as a solution to this problem.  
 * Develop a very early stage prototype, it can be made out of paper and duct tape, anything to put in front of a potential customer to get feedback
  
 ###First ask about the problem: 
